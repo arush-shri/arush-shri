@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hisab book](https://github.com/arush-shri/hisab_book)
 
-- 🌱 I’m currently learning **Java, Flutter, DSA**
+- 🌱 I’m currently learning **Java, Flutter**
 
 - 📫 How to reach me **shri.arush03@gmail.com**
 
