@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arush-shri&label=Profile%20views&color=8808b4&style=flat" alt="arush-shri" /> </p>
 
-- 🔭 I’m currently working on [Hisab book](https://github.com/arush-shri/hisab_book)
+- 🔭 I’m currently working on [Stock Master](https://github.com/arush-shri/StockMaster)
 
 - 🌱 I’m currently learning **Java, Flutter**
 
