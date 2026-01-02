@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arush-shri&label=Profile%20views&color=8808b4&style=flat" alt="arush-shri" /> </p>
 
-- 🔭 I’m currently working on Something secret
-
-- 🌱 I’m currently learning **Java, Flutter**
+- 🔭 I’m currently working at Shink AI Tech Private Limited as a Principal Developer
 
 - 📫 How to reach me **shri.arush03@gmail.com**
 
